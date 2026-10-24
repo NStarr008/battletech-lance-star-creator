@@ -104,9 +104,9 @@ def CL_names(clan_choice):
     return name_block
 
 def PG_stat_cl():
-    return "Your pilots have the following Pilot/Gunnery Skills: " + "P/G 1: " + str(random.choice(Piloting_Ints)) + "|" + str(random.choice(Gunnery_Ints)) + ", P/G 2: "  + str(random.choice(Piloting_Ints)) + "|" + str(random.choice(Gunnery_Ints)) + ", P/G 3: " + str(random.choice(Piloting_Ints)) + "|" + str(random.choice(Gunnery_Ints)) + ", P/G 4: " + str(random.choice(Piloting_Ints)) + "|" + str(random.choice(Gunnery_Ints)) + ", and your P/G: " + + "P/G 1: " + str(random.choice(Piloting_Ints)) + "|" + str(random.choice(Gunnery_Ints)) + "."
+    return "Your pilots have the following Pilot/Gunnery Skills: " + "P/G 1: " + str(random.choice(Piloting_Ints)) + "|" + str(random.choice(Gunnery_Ints)) + ", P/G 2: "  + str(random.choice(Piloting_Ints)) + "|" + str(random.choice(Gunnery_Ints)) + ", P/G 3: " + str(random.choice(Piloting_Ints)) + "|" + str(random.choice(Gunnery_Ints)) + ", P/G 4: " + str(random.choice(Piloting_Ints)) + "|" + str(random.choice(Gunnery_Ints)) + ", and your P/G: "  + str(random.choice(Piloting_Ints)) + "|" + str(random.choice(Gunnery_Ints)) + "."
 
 def PG_stat_is():
-     return "Your pilots have the following Pilot/Gunnery Skills: " + "P/G 1: " + str(random.choice(Piloting_Ints)) + "|" + str(random.choice(Gunnery_Ints)) + ", P/G 2: "  + str(random.choice(Piloting_Ints)) + "|" + str(random.choice(Gunnery_Ints)) + ", P/G 3: " + str(random.choice(Piloting_Ints)) + "|" + str(random.choice(Gunnery_Ints)) + ", and your P/G: " + + "P/G 1: " + str(random.choice(Piloting_Ints)) + "|" + str(random.choice(Gunnery_Ints)) + "."
+     return "Your pilots have the following Pilot/Gunnery Skills: " +  "P/G 1: " + str(random.choice(Piloting_Ints)) + "|" + str(random.choice(Gunnery_Ints)) + ", P/G 2: "  + str(random.choice(Piloting_Ints)) + "|" + str(random.choice(Gunnery_Ints)) + ", P/G 3: " + str(random.choice(Piloting_Ints)) + "|" + str(random.choice(Gunnery_Ints)) + ", and your P/G: " + str(random.choice(Piloting_Ints)) + "|" + str(random.choice(Gunnery_Ints)) + "."
     
    
